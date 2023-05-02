@@ -9,9 +9,10 @@ virtualenv env
 ```
 
 2. Enter the virtual environment
+For Windows
 
 ```bash
-source env/bin/activate
+env\Scripts\activate
 ```
 
 ## Installation
